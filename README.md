@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faig Gasimli</h1>
 <h3 align="center">A passionate frontend developer from Baku</h3>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="faiggasimli" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiggasimli&label=Profile%20views&color=0e75b6&style=flat" alt="faiggasimli" /> </p>
 
@@ -9,15 +10,15 @@
 
 - 🌱 I’m currently learning **Vue.Js**
 
-- 💬 Ask me about **React.JS,JavaScript,React Redux**
+- 💬 Ask me about **HTML,CSS,React.JS,JavaScript,React Redux**
 
 - 📫 How to reach me **faig.gasimli1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/faiq qasimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faiq qasimli" height="30" width="40" /></a>
+<a href="https://fb.com/faiqqasimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faiqqasimli" height="30" width="40" /></a>
 <a href="https://instagram.com/faiqkhasimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faiqkhasimli" height="30" width="40" /></a>
-<a href="https://www.behance.net/faig gasimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="faig gasimli" height="30" width="40" /></a>
+<a href="https://www.behance.net/faiggasimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="faiggasimli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiggasimli&show_icons=true&locale=en" alt="faiggasimli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiggasimli&" alt="faiggasimli" /></p>
-
-
