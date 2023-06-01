@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faig Gasimli</h1>
 <h3 align="center">A passionate frontend developer from Baku</h3>
-<img width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="faiggasimli" />
+<img width="1000px" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="faiggasimli" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiggasimli&label=Profile%20views&color=0e75b6&style=flat" alt="faiggasimli" /> </p>
 
